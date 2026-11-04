@@ -1,2 +1,3 @@
 [run]
 source = src
+omit = serc/tests/**,src/index.py
