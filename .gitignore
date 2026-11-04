@@ -1,0 +1,4 @@
+/*.tmp
+__pycahche__/
+.pytest_cache/
+EOF
